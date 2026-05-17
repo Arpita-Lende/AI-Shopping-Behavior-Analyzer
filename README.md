@@ -58,13 +58,21 @@ exactly like real e-commerce companies do!
 === AI E-COMMERCE CUSTOMER ANALYTICS PLATFORM ===
 
 💰 Total Revenue: Rs. 5,06,564
+
 📊 Category-wise Revenue:
+
 Electronics: 7 orders | Rs. 3,86,993
+
 Furniture: 3 orders | Rs. 70,997
+
 Fashion: 7 orders | Rs. 40,489
+
 👑 Top Customer: Rahul Sharma | Rs. 1,28,997
+
 🤖 AI Model Accuracy: 80.0%
+
 👑 High Value Customers Identified!
+
 🎉 Analysis Complete!
 
 ### 📈 Visual Insights
